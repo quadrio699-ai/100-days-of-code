@@ -13,7 +13,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 
 | Day | Focus | Done | Date | Link |
 |---|---|---|---|---|
-| 1 | Bio/profile card — HTML structure & semantic markup | [ ] | | |
+| 1 | Bio/profile card — HTML structure & semantic markup | [x] | 2020-07-25 | [day-01-bio-card](day-01-bio-card) |
 | 2 | Bio/profile card — CSS styling, responsive, deploy | [ ] | | |
 | 3 | Landing page clone — layout & typography | [ ] | | |
 | 4 | Landing page clone — animations, mobile breakpoints, deploy | [ ] | | |
