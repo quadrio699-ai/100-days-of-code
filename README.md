@@ -5,7 +5,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 **Start date:** _fill in_
 **Rule:** 1 hour minimum per day, no zero days. Missed days get logged, not hidden.
 
-## Progress: 0 / 100
+## Progress: 1 / 100
 
 ---
 
