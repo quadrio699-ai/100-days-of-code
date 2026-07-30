@@ -5,7 +5,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 **Start date:** _fill in_
 **Rule:** 1 hour minimum per day, no zero days. Missed days get logged, not hidden.
 
-## Progress: 4 / 100
+## Progress: 5 / 100
 
 ---
 
@@ -17,7 +17,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 | 2 | Bio/profile card — CSS styling, responsive, deploy | [x] | 2026-07-26  | [https://marvellous-bio-card.netlify.app/] 
 | 3 | Landing page clone — layout & typography | [x] | 2026-07-27 | [day-03-landing-page](day-03-landing-page) |
   | 4 | Landing page clone — animations, mobile breakpoints, deploy | [x] | 2026-07-28 | [https://day-03-landing-page.netlify.app/] | 
-| 5 | To-do list — structure + JS add/remove logic | [ ] | | |
+| 5 | To-do list — structure + JS add/remove logic | [x] | 2026-07-30 | [day-05-todo-list](day-05-todo-list) |
 | 6 | To-do list — localStorage persistence, deploy | [ ] | | |
 | 7 | Calculator app — logic + UI | [ ] | | |
 | 8 | Quote generator — fetch API, deploy both | [ ] | | |
