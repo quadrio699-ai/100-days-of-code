@@ -5,7 +5,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 **Start date:** _fill in_
 **Rule:** 1 hour minimum per day, no zero days. Missed days get logged, not hidden.
 
-## Progress: 6 / 100
+## Progress: 7 / 100
 
 ---
 
@@ -19,7 +19,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
   | 4 | Landing page clone — animations, mobile breakpoints, deploy | [x] | 2026-07-28 | [https://day-03-landing-page.netlify.app/] | 
 | 5 | To-do list — structure + JS add/remove logic | [x] | 2026-07-30 | [day-05-todo-list](day-05-todo-list) |
 | 6 | To-do list — localStorage persistence, deploy | [x] | 2026-07-30 | [https://day-05-todo-list.netlify.app/] |
-| 7 | Calculator app — logic + UI | [ ] | | |
+| 7 | Calculator app — logic + UI | [x] | 2026-07-31 | [day-07-calculator](day-07-calculator) |
 | 8 | Quote generator — fetch API, deploy both | [ ] | | |
 | 9 | Git/GitHub deep clean — reorganize repos, write READMEs | [ ] | | |
 | 10 | Deploy all Phase 1 projects + milestone post | [ ] | | |
