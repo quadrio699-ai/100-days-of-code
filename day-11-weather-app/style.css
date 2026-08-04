@@ -1,0 +1,45 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #0f172a;
+  color: #e2e8f0;
+  display: flex;
+  justify-content: center;
+  padding: 3rem 1rem;
+}
+
+.app { width: 100%; max-width: 400px; }
+
+h1 { text-align: center; margin-bottom: 1.5rem; }
+
+#search-form { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; }
+
+#city-input {
+  flex: 1;
+  padding: 0.75rem;
+  border-radius: 6px;
+  border: none;
+  font-size: 1rem;
+}
+
+#search-form button {
+  padding: 0.75rem 1.25rem;
+  background-color: #38bdf8;
+  color: #0f172a;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.result-card {
+  background-color: #1e293b;
+  border-radius: 10px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.city-name { font-size: 1.1rem; color: #94a3b8; margin-bottom: 0.5rem; }
+.temp { font-size: 2.5rem; font-weight: 700; margin-bottom: 0.5rem; }
+.description { color: #94a3b8; text-transform: capitalize; }
