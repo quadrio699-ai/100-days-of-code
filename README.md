@@ -2,10 +2,12 @@
 
 Rebuilding fundamentals and shipping full-stack projects, in public. Daily updates on TikTok, weekly recaps on LinkedIn.
 
-**Start date:** _fill in_
+**Start date:** 2026-07-25
 **Rule:** 1 hour minimum per day, no zero days. Missed days get logged, not hidden.
+**Live Portfolio:** https://100-days-of-code-tau.vercel.app/
 
-## Progress: 9 / 100
+
+## Progress: 10 / 100
 
 ---
 
@@ -22,7 +24,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 | 7 | Calculator app — logic + UI | [x] | 2026-07-31 | [day-07-calculator](day-07-calculator) |
 | 8 | Quote generator — fetch API, deploy both | [x] | 2026-08-02 | [https://day-07-calculator.netlify.app/] [https://day-08-quote-generator.netlify.app/] |
 | 9 | Git/GitHub deep clean — reorganize repos, write READMEs | [x] | 2026-08-02 | |
-| 10 | Deploy all Phase 1 projects + milestone post | [ ] | | |
+| 10 | Deploy all Phase 1 projects + milestone post | [x] | 2026-08-04 | [https://100-days-of-code-tau.vercel.app/] |
 
 ## Phase 2 — JS Depth + React (Days 11–25)
 
