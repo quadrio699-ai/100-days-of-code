@@ -7,7 +7,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 **Live Portfolio:** https://100-days-of-code-tau.vercel.app/
 
 
-## Progress: 10 / 100
+## Progress: 13 / 100
 
 ---
 
@@ -30,9 +30,9 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 
 | Day | Focus | Done | Date | Link |
 |---|---|---|---|---|
-| 11 | Weather app — UI + API key setup | [ ] | | |
-| 12 | Weather app — async/await data fetching | [ ] | | |
-| 13 | Weather app — error handling, loading states, deploy | [ ] | | |
+| 11 | Weather app — UI + API key setup | [x] | 2026-08-04 | [day-11-weather-app](day-11-weather-app) |
+| 12 | Weather app — async/await data fetching | [x] | 2026-08-04 | |
+| 13 | Weather app — error handling, loading states, deploy | [x] | 2026-08-04 | [https://100-days-of-code-tau.vercel.app/day-11-weather-app/] |
 | 14 | Movie search app — UI + OMDB API integration | [ ] | | |
 | 15 | Movie search app — search/filter logic | [ ] | | |
 | 16 | Movie search app — pagination, deploy | [ ] | | |
