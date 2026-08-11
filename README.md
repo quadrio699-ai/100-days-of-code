@@ -7,7 +7,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 **Live Portfolio:** https://100-days-of-code-tau.vercel.app/
 
 
-## Progress: 13 / 100
+## Progress: 16 / 100
 
 ---
 
@@ -33,9 +33,9 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 | 11 | Weather app — UI + API key setup | [x] | 2026-08-04 | [day-11-weather-app](day-11-weather-app) |
 | 12 | Weather app — async/await data fetching | [x] | 2026-08-04 | |
 | 13 | Weather app — error handling, loading states, deploy | [x] | 2026-08-04 | [https://100-days-of-code-tau.vercel.app/day-11-weather-app/] |
-| 14 | Movie search app — UI + OMDB API integration | [ ] | | |
-| 15 | Movie search app — search/filter logic | [ ] | | |
-| 16 | Movie search app — pagination, deploy | [ ] | | |
+| 14 | Movie search app — UI + OMDB API integration | [x] | 2026-08-11 | |
+| 15 | Movie search app — search/filter logic | [x] | 2026-08-11 | |
+| 16 | Movie search app — pagination, deploy | [x] | 2026-08-11 | [day-14-movie-search](day-14-movie-search) |
 | 17 | React fundamentals — components & JSX practice | [ ] | | |
 | 18 | To-do app in React — state with useState | [ ] | | |
 | 19 | To-do app in React — useEffect + localStorage sync | [ ] | | |
