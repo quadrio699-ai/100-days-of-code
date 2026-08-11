@@ -2,10 +2,21 @@ const API_KEY = 'http://www.omdbapi.com/?i=tt3896198&apikey=b52a7639';
 
 const form = document.getElementById('search-form');
 const input = document.getElementById('search-input');
+const typeFilter = document.getElementById('type-filter');
 const resultsGrid = document.getElementById('results-grid');
 
+function debounce(func, delay) {
+  let timer;
+  return function (...args) {
+    clearTimeout(timer);
+    timer = setTimeout(() => func.apply(this, args), delay);
+  };
+}
+
 async function searchMovies(query) {
-  const url = `https://www.omdbapi.com/?s=${encodeURIComponent(query)}&apikey=${API_KEY}`;
+  const type = typeFilter.value;
+  let url = `https://www.omdbapi.com/?s=${encodeURIComponent(query)}&apikey=${API_KEY}`;
+  if (type) url += `&type=${type}`;
 
   const response = await fetch(url);
   const data = await response.json();
@@ -38,10 +49,16 @@ function displayResults(movies) {
   });
 }
 
-form.addEventListener('submit', (e) => {
-  e.preventDefault();
+const handleSearch = debounce(() => {
   const query = input.value.trim();
-  if (!query) return;
-
+  if (!query) {
+    resultsGrid.innerHTML = '';
+    return;
+  }
   searchMovies(query);
-});
+}, 500);
+
+input.addEventListener('input', handleSearch);
+typeFilter.addEventListener('change', handleSearch);
+
+form.addEventListener('submit', (e) => e.preventDefault());
