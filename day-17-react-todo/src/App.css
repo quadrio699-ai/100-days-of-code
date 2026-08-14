@@ -1,7 +1,13 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #0f172a; color: #e2e8f0; }
-.app { max-width: 600px; margin: 0 auto; padding: 3rem 1rem; text-align: center; }
-.skills { display: grid; gap: 1rem; margin-top: 2rem; }
-.skill-card { background-color: #1e293b; padding: 1.25rem; border-radius: 8px; text-align: left; }
-.skill-card h3 { color: #38bdf8; margin-bottom: 0.5rem; }
-.skill-card p { color: #94a3b8; font-size: 0.9rem; }
+.app { max-width: 480px; margin: 0 auto; padding: 3rem 1rem; }
+h1 { text-align: center; margin-bottom: 1.5rem; }
+form { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; }
+form input { flex: 1; padding: 0.75rem; border-radius: 6px; border: none; font-size: 1rem; }
+form button { padding: 0.75rem 1.25rem; background-color: #38bdf8; color: #0f172a; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; }
+ul { list-style: none; }
+li { display: flex; justify-content: space-between; align-items: center; background-color: #1e293b; padding: 0.75rem 1rem; border-radius: 6px; margin-bottom: 0.5rem; }
+li.completed span { text-decoration: line-through; color: #64748b; }
+li span { cursor: pointer; }
+li button { background: none; border: none; color: #f87171; cursor: pointer; font-weight: 600; }
+.empty-message { text-align: center; color: #64748b; }
