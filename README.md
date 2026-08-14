@@ -7,7 +7,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 **Live Portfolio:** https://100-days-of-code-tau.vercel.app/
 
 
-## Progress: 16 / 100
+## Progress: 20 / 100
 
 ---
 
@@ -36,10 +36,10 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 | 14 | Movie search app — UI + OMDB API integration | [x] | 2026-08-11 | |
 | 15 | Movie search app — search/filter logic | [x] | 2026-08-11 | |
 | 16 | Movie search app — pagination, deploy | [x] | 2026-08-11 | [day-14-movie-search](day-14-movie-search) |
-| 17 | React fundamentals — components & JSX practice | [ ] | | |
-| 18 | To-do app in React — state with useState | [ ] | | |
-| 19 | To-do app in React — useEffect + localStorage sync | [ ] | | |
-| 20 | To-do app in React — polish, deploy | [ ] | | |
+| 17 | React fundamentals — components & JSX practice | [x] | 2026-08-14 | |
+| 18 | To-do app in React — state with useState | [x] | 2026-08-14 | |
+| 19 | To-do app in React — useEffect + localStorage sync | [x] | 2026-08-14 | [day-17-react-todo](day-17-react-todo) |
+| 20 | To-do app in React — polish, deploy | [x] | 2026-08-14 | [https://100-days-of-code-s49w.vercel.app/] |
 | 21 | Expense tracker — form + state management | [ ] | | |
 | 22 | Expense tracker — Recharts integration | [ ] | | |
 | 23 | Expense tracker — categories/filtering, deploy | [ ] | | |
