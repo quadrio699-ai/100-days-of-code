@@ -13,3 +13,4 @@ h1 { text-align: center; margin-bottom: 0.5rem; }
 .expense-category { color: #94a3b8; }
 .expense-amount { font-weight: 600; }
 .empty-message { text-align: center; color: #64748b; }
+.filter-select { display: block; margin: 0 auto 1rem; padding: 0.5rem 1rem; border-radius: 6px; border: none; }
