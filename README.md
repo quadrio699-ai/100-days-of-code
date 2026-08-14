@@ -7,7 +7,7 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 **Live Portfolio:** https://100-days-of-code-tau.vercel.app/
 
 
-## Progress: 20 / 100
+## Progress: 23 / 100
 
 ---
 
@@ -40,9 +40,9 @@ Rebuilding fundamentals and shipping full-stack projects, in public. Daily updat
 | 18 | To-do app in React — state with useState | [x] | 2026-08-14 | |
 | 19 | To-do app in React — useEffect + localStorage sync | [x] | 2026-08-14 | [day-17-react-todo](day-17-react-todo) |
 | 20 | To-do app in React — polish, deploy | [x] | 2026-08-14 | [https://100-days-of-code-s49w.vercel.app/] |
-| 21 | Expense tracker — form + state management | [ ] | | |
-| 22 | Expense tracker — Recharts integration | [ ] | | |
-| 23 | Expense tracker — categories/filtering, deploy | [ ] | | |
+| 21 | Expense tracker — form + state management | [x] | 2026-08-14 | |
+| 22 | Expense tracker — Recharts integration | [x] | 2026-08-14 | |
+| 23 | Expense tracker — categories/filtering, deploy | [x] | 2026-08-14 | [https://100-days-of-code-a7qx.vercel.app/] |
 | 24 | Portfolio site in React — routing setup | [ ] | | |
 | 25 | Portfolio site in React — polish, deploy + milestone post | [ ] | | |
 
