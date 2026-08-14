@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import ExpenseForm from './components/ExpenseForm';
 import ExpenseList from './components/ExpenseList';
+import ExpenseChart from './components/ExpenseChart';
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <h1>Expense Tracker</h1>
       <p className="total">Total: ₦{total.toLocaleString()}</p>
       <ExpenseForm onAdd={addExpense} />
+      <ExpenseChart expenses={expenses} />
       <ExpenseList expenses={expenses} />
     </div>
   );
